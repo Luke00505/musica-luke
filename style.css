@@ -9,5 +9,19 @@
 body{
     background: grey;
     margin: 0px;
-    
-}
+    font-family: "Playfair Display";
+    color: bisque;
+    margin-bottom: 100px;
+    }
+    header{
+        font-size: 35px;
+        color: crimson;
+        border-bottom: 3px solid palevioletred;
+        padding: 20px;
+    }
+    h1{
+        font-size: 40px;
+    }
+    .chamada-texto{
+        margin-right: 
+    }
